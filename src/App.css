@@ -1,0 +1,18 @@
+.App{
+  margin: 28px 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem;
+}
+/* .pie{
+
+  flex: 6;
+  width: 500px;
+}
+.bar{
+  flex: 6;
+  width: 500px;
+  display: flex;
+  justify-content: flex-start;
+} */
